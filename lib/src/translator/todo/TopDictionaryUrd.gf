@@ -1,4 +1,5 @@
 -- AR 2017, based on Shafqat Virk's word from 2012
+-- Ayesha Zafar
 concrete TopDictionaryUrd of TopDictionary = CatUrd ** open ParadigmsUrd, (P=ParadigmsUrd), Prelude, (S = StructuralUrd), NounUrd,ParamX,MorphoUrd,CommonHindustani in {
 flags
 coding=utf8 ;
